@@ -1,0 +1,5 @@
+20240925_cars.txt  - VAS para campanha PL
+20240925_commercial.txt - VAS para campanha PL
+20240925_agro.txt - VAS para campanha PL
+20240925_bikes.txt - VAS para campanha PL
+20240925_parts.txt - VAS para campanha PL
