@@ -1,0 +1,3 @@
+202409091223ro.txt - VAS para campanha RO com clube
+202409091407ro.txt - VAS para a campanha RO que deram erro no anterior por causa do brand id
+202409161014ro.txt - VAS para a campanha RO com club para aplicar reforço de bump3
